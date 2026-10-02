@@ -1,0 +1,8 @@
+{
+  "name": "Presentación Wednesday 1",
+  "description": "Presentación web interactiva con estética de Netflix sobre la narrativa transmedia de Merlina (Wednesday) y Los Locos Addams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
